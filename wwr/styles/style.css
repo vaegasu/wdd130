@@ -1,0 +1,28 @@
+
+#background {
+    text-align: center;
+    max-width: 1600px;
+    height: 725px;
+    margin: 0 auto 
+}
+body {
+    background-color: #fcfbfb; 
+    
+}
+header {
+    background-color:rgba(20,30,13, .7);
+    
+}        
+nav a:hover {  text-align: center;
+    background-color: black;
+    color: #d9c2a3;
+}
+main { text-align: center;}
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+} 
