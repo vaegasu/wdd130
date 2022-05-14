@@ -2,37 +2,39 @@ body main p {
     width: 80%;
     margin: 50px auto;
     text-align: center;
-  }
-  
-  nav {
+}
+
+nav {
     background-color: steelblue;
     color: white;
     padding: 10px;
     text-align: center;
-  }
-  a {
+}
+
+a {
     color: rgb(white);
     margin: 40px;
     text-align: center;
-  }
-  h1 {
+}
+
+h1 {
     color: steelblue;
     text-align: center;
-  }
-  
-  img {
+}
+
+img {
     display: block;
     width: 80%;
     margin: 0 auto;
-  }
-  
-  p {
+}
+
+p {
     padding: 10px;
     text-align: center;
-  }
-  footer {
+}
+
+footer {
     background-color: steelblue;
     color: white;
     text-align: center;
-  }
- 
+}
