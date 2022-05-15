@@ -22,7 +22,9 @@ nav a:hover {  text-align: center;
     background-color: black;
     color: #d9c2a3;
 }
-
+h3 {
+    color: #d9c2a3;
+} 
 .icon {
     width: 80px;
 }
