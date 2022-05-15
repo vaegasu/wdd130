@@ -4,6 +4,10 @@
     height: 725px;
     background-color:#d9c2a3 ;
 }
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
 body {
     background-color: white;
 }
