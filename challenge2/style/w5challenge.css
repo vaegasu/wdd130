@@ -3,6 +3,7 @@
     height: 300px;
     background-color: grey;
 }
-#desk-img {
-    height: 20px;
+#images {
+    width: 50%;
+  max-width: 5px;
 }
