@@ -2,7 +2,14 @@
 #background {
     text-align: center;
     height: 725px;
-    background-color:#d9c2a3 ;
+    background-color:#d9c2a3;
+    width: 80px;   
+}
+.logo {
+    width: 80px;   
+}
+nav {
+    text-align: center;    
 }
 #content {
     max-width: 1600px;
