@@ -55,12 +55,6 @@ footer {
     background-color: rgba(20, 30, 13, .7);
     color: #d9c2a3;
 }
-
-#contact {
-    color: #d9c2a3;
-}
-
-#button-box {
-    background-color: #d9c2a3;
-    color: black;
+.contact {
+    color: #d9c2a3;  
 }
