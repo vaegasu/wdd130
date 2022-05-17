@@ -18,6 +18,8 @@ nav {
 
 body {
     background-color: white;
+    max-width: 1600px;
+    margin: 0 auto;
 }
 
 main {
@@ -52,4 +54,8 @@ nav a {
 footer {
     color: #d9c2a3; 
     background-color: rgba(20, 30, 13, .7);
+}
+.mountains {
+    display: block;
+    margin-right:auto;
 }
