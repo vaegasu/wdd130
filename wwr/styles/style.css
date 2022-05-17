@@ -1,52 +1,65 @@
-
 #background {
     text-align: center;
     height: 725px;
-    background-color:#d9c2a3;
-    width: 80px;   
+    background-color: #d9c2a3;
+    width: 600px;
 }
+
 .logo {
-    width: 80px;   
+    width: 80px;
 }
+
 nav {
-    text-align: center;    
+    text-align: center;
 }
+
 #content {
     max-width: 1600px;
     margin: 0 auto;
 }
+
 body {
     background-color: white;
 }
+
 main {
     text-align: center;
 }
+
 header {
-    background-color:rgba(20,30,13, .7);
-    
-}        
-nav a:hover {  text-align: center;
+    background-color: rgba(20, 30, 13, .7);
+
+}
+
+nav a:hover {
+    text-align: center;
     background-color: black;
     color: #d9c2a3;
 }
+
 #msg {
-    background-color:rgba(20,30,13, .7);
+    background-color: rgba(20, 30, 13, .7);
 }
+
 .icon {
     width: 80px;
 }
+
 nav a {
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
-} 
+}
+
 footer {
-background-color:rgba(20,30,13, .7);
-color:#d9c2a3;
+    background-color: rgba(20, 30, 13, .7);
+    color: #d9c2a3;
 }
+
 #contact {
-    color:#d9c2a3;
+    color: #d9c2a3;
 }
+
 #button-box {
     background-color: #d9c2a3;
     color: black;
