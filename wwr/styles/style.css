@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bradley+Hand&family=Rock+Salt&display=swap');
+
+
 #background {
     text-align: center;
     height: 725px;
@@ -36,6 +39,9 @@ header {
     background-color: rgba(20, 30, 13, .7);
 
 }
+#logo_link {
+    padding-top: 5px;
+}
 
 nav a:hover {
     text-decoration: none;
@@ -51,22 +57,28 @@ nav a:hover {
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    font-size: 18px;
 }
 .card-img {
     border: 10px solid #d9c2a3;
 }
 main section img {
     box-sizing: border-box;
-}
-      
-     
-#msg {
+}    
+.msg {
     background-color: rgba(20, 30, 13, .7);
     line-height: 1.5em;
+    padding: 35px;
 }
-
+.msg p {
+    padding-bottom: 15px;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    font-size: .8em;
+}
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 
 nav a {
@@ -78,12 +90,16 @@ nav a {
 footer {
     color: #d9c2a3; 
     background-color: rgba(20, 30, 13, .7);
+    padding: 25px 50px;
+}
+footer .social img {
+    padding-top: 15px;
 }
 .mountains {
     display: block;
     margin-right:auto;
 }
 .home-title {
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
     font-size: 2em;
 }
