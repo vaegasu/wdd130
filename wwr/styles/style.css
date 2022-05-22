@@ -5,6 +5,7 @@
     text-align: center;
     height: 725px;
     background-color: #d9c2a3;
+    margin: 200px 0;
 }
 
 div {
@@ -35,7 +36,7 @@ nav {
 
 body {
     background-color: #fcfbfb;
-    font-family: Raleway, Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -102,23 +103,21 @@ main section img {
     box-sizing: border-box;
 }    
 
-.msg {
+#msg {
     background-color: rgba(20, 30, 13, .7);
     line-height: 1.5em;
     padding: 35px;
 }
 
 .msg p {
-    background-color: black;
-    color: #d9c2a3;
+    color: black;
     padding-bottom: 15px;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
     font-size: .8em;
 }
 
 .msg h2 {
-    background-color: black;
-    color: #d9c2a3;
+    color: black;
 }
 
 .icon {
@@ -159,7 +158,7 @@ footer .social img {
 
 .mountains {
     display: block;
-    margin-right:auto;
+    margin: 50px 0;
 }
 
 .home-title {
