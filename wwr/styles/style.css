@@ -16,7 +16,7 @@ div {
     width: 80px;
 }
 
-#hero-msg h1 , #hero-msg h4 {
+#hero-msg h1 , #hero-msg h4 , #hero-img {
     text-align: center;
 }
 
@@ -43,6 +43,10 @@ body {
 
 h2 {
     margin: 0;
+}
+
+h3 {
+    text-decoration: underline;
 }
 
 h4 {
@@ -128,10 +132,12 @@ footer {
     color: #d9c2a3; 
     background-color: rgba(20, 30, 13, .7);
     padding: 25px 50px;
+    text-decoration: underline;
 }
 
 footer a {
     color: #d9c2a3;
+    text-decoration: none;
 }
 
 footer h3 {
