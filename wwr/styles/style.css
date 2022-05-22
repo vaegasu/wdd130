@@ -41,6 +41,7 @@ body {
     margin: 0;
     padding: 0;
 }
+
 h2 {
     margin: 0;
 }
@@ -53,6 +54,7 @@ header {
     background-color: rgba(20, 30, 13, .7);
 
 }
+
 #logo_link {
     padding-top: 5px;
 }
@@ -64,6 +66,7 @@ nav a:hover {
     padding: 35px;
     background-color: black;
 }
+
 .book, .join {
     background-color: #d9c2a3;
     color: black;
@@ -75,25 +78,31 @@ nav a:hover {
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
     font-size: 18px;
 }
+
 .book:hover , .join:hover {
     background-color: black ;
 }
+
 .card-img {
     border: 10px solid #d9c2a3;
 }
+
 main section img {
     box-sizing: border-box;
 }    
+
 .msg {
     background-color: rgba(20, 30, 13, .7);
     line-height: 1.5em;
     padding: 35px;
 }
+
 .msg p {
     padding-bottom: 15px;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
     font-size: .8em;
 }
+
 .icon {
     width: 80px;
     padding-top: 10px;
@@ -110,14 +119,18 @@ footer {
     background-color: rgba(20, 30, 13, .7);
     padding: 25px 50px;
 }
+
 footer .social img {
     padding-top: 15px;
 }
+
 .mountains {
     display: block;
     margin-right:auto;
 }
+
 .home-title {
+    color: #d9c2a3;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
     font-size: 2em;
 }
