@@ -33,7 +33,6 @@ nav {
     margin: 0 auto;
 }
 
-
 body {
     background-color: #fcfbfb;
     font-family: Raleway, Arial, sans-serif;
@@ -44,6 +43,10 @@ body {
 
 h2 {
     margin: 0;
+}
+
+h4 {
+    color: black;
 }
 
 main section {
@@ -98,9 +101,16 @@ main section img {
 }
 
 .msg p {
+    background-color: black;
+    color: #d9c2a3;
     padding-bottom: 15px;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
     font-size: .8em;
+}
+
+.msg h2 {
+    background-color: black;
+    color: #d9c2a3;
 }
 
 .icon {
@@ -118,6 +128,18 @@ footer {
     color: #d9c2a3; 
     background-color: rgba(20, 30, 13, .7);
     padding: 25px 50px;
+}
+
+footer a {
+    color: #d9c2a3;
+}
+
+footer h3 {
+    color: #d9c2a3;
+}
+
+footer a:hover {
+    color: #d9c2a3;
 }
 
 footer .social img {
