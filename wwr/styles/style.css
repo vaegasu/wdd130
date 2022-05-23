@@ -27,6 +27,12 @@ div {
 
 nav {
     text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
 }
 
 #content {
