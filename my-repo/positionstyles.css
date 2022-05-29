@@ -101,6 +101,7 @@ grid-column-gap: 80px;
   /* This is the parent of the activity 4 boxes. */
   display: grid;
   grid-template-columns: 1fr 1fr;
+  justify-items: center;
 }
 .red4 {
   width: 300px; 
@@ -122,6 +123,7 @@ grid-column-gap: 80px;
   grid-column: 2;
   grid-row: 2;
   margin-top: -280px;
+  margin-left: -100px;
 } 
 .blue4 {
   width: 300px; 
@@ -130,6 +132,7 @@ grid-column-gap: 80px;
   grid-column: 2;
   grid-row: 3;
   margin-top: -140px;
+  margin-left: -100px;
 }
 /* Activity 5 styles */ 
 .content5 {
