@@ -115,7 +115,7 @@ grid-column-gap: 80px;
   height: 140px; 
   background-color: green;
   grid-row: 1;
-  margin-left: -100px;
+  margin-left: -400px;
 } 
 .yellow4 {
   width: 300px; 
@@ -124,7 +124,7 @@ grid-column-gap: 80px;
   grid-column: 2;
   grid-row: 2;
   margin-top: -280px;
-  margin-left: -100px;
+  margin-left: -400px;
 } 
 .blue4 {
   width: 300px; 
@@ -133,7 +133,7 @@ grid-column-gap: 80px;
   grid-column: 2;
   grid-row: 3;
   margin-top: -140px;
-  margin-left: -100px;
+  margin-left: -400px;
 }
 /* Activity 5 styles */ 
 .content5 {
