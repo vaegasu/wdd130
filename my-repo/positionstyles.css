@@ -115,6 +115,7 @@ grid-column-gap: 80px;
   height: 140px; 
   background-color: green;
   grid-row: 1;
+  margin-left: -100px;
 } 
 .yellow4 {
   width: 300px; 
