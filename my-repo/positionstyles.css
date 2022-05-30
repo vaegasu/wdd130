@@ -84,13 +84,13 @@ grid-column-gap: 80px;
   width: 400px; 
   height: 200px; 
   background-color: green;
-  margin-left: -30px;
+  margin-left: -20px;
 } 
 .yellow3 {
   width: 400px; 
   height: 200px; 
   background-color: gold;
-  margin-right: -30px;
+  margin-right: -20px;
 } 
 .blue3 {
   width: 100%;
