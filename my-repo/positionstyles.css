@@ -56,7 +56,7 @@
   background-color: gold;
   grid-column: 3; 
   grid-row: 3;
-  margin-top: -20px;
+  margin-top: -50px;
 } 
 .blue2 {
   width: 100px; 
@@ -64,7 +64,7 @@
   background-color: blue;
   grid-column: 4;
   grid-row: 4;
-  margin-top: -20px; 
+  margin-top: -50px; 
 } 
 /* Activity 3 styles */ 
 .content3 {
@@ -159,7 +159,7 @@ grid-column-gap: 80px;
   width: 600px; 
   height: 270px; 
   background-color: gold;
-  font-size: 14px;
+  font-size: 12px;
 } 
 .blue5 {
   width: 600px; 
