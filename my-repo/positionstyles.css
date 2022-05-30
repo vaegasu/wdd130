@@ -75,7 +75,7 @@ justify-items: center;
 grid-column-gap: 80px;
 }
 .red3 {
-  width: 80%; 
+  width: 90%; 
   height: 100px; 
   background-color: red;
   grid-column: 1/3;
@@ -84,16 +84,16 @@ grid-column-gap: 80px;
   width: 400px; 
   height: 200px; 
   background-color: green;
-  margin-left: 10px;
+  margin-right: -50px;
 } 
 .yellow3 {
   width: 400px; 
   height: 200px; 
   background-color: gold;
-  margin-right: 10px;
+  margin-left: -50px;
 } 
 .blue3 {
-  width: 80%;
+  width: 90%;
   height: 100px; 
   background-color: blue;
   grid-column: 1/3;
