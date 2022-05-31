@@ -54,10 +54,6 @@ div {
     margin-top: 0;
 }
 
-.button-box {
-    text-align: center;
-}
-
 a {
     text-align: center;
     text-decoration: none;
@@ -108,8 +104,8 @@ nav {
     text-align: center;
     text-decoration: none;
     display: flex;
-    justify-content: space-around;
-    flex-direction: column;
+    justify-content: space-evenly;
+    flex-direction: row;
 }
 
 nav a {
