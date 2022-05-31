@@ -15,7 +15,7 @@
 
 #hero {
     display: grid;
-    grid-template-columns: repeat(5, 1fr)
+    grid-template-columns: 1fr 3fr 1fr;
 }
 
 #hero-box {
@@ -142,7 +142,7 @@ nav a:hover {
 }
 
 .book:hover , .join:hover {
-    background-color: black ;
+    background-color: black;
 }
 
 .card-img {
