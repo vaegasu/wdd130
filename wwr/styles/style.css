@@ -175,6 +175,7 @@ nav a:hover {
 
 main section img {
     box-sizing: border-box;
+    display: grid;
 }    
 
 #msg {
@@ -248,7 +249,7 @@ footer .social img {
 .mountains {
     display: block;
     margin: 0 auto;
-    width: 80%;
+    width: 100%;
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
