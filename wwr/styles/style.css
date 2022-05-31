@@ -40,6 +40,7 @@ div {
 
 #hero-msg h1 {
     text-align: center;
+    color: #d9c2a3;
 }
 
 #hero-msg h4 {
@@ -107,7 +108,7 @@ nav {
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
-    row-gap: 30px;
+    column-gap: 80px;
 }
 
 nav a {
