@@ -46,7 +46,6 @@ div {
 #hero-msg h4 {
     text-align: center;
     color: white;
-    display: none;
 }
 
 #hero-msg {
@@ -229,8 +228,9 @@ footer {
     margin-top: 25px;
     align-items: center;
     display: flex;
-    justify-content: space-around;
-    flex-direction: column;
+    justify-content: space-evenly;
+    flex-direction: row;
+    column-gap: 80px;
 }
 
 footer a {
