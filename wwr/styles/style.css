@@ -87,7 +87,7 @@ nav {
     text-decoration: none;
     padding: 35px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     flex-direction: row;
     column-gap: 10px;
 }
