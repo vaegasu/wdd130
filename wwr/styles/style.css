@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bradley+Hand&family=Rock+Salt&display=swap');
 
+@media screen and (max-width: 900px) {
+    #hero, .home-grid {
+        display: block;
+        height: auto;
+    }
+}
 
 #background {
     text-align: center;
