@@ -27,8 +27,13 @@ div {
     grid-row: 1/3;
 }
 
-#hero-msg h1 , #hero-msg h4 {
+#hero-msg h1 {
     text-align: center;
+}
+
+#hero-msg h4 {
+    text-align: center;
+    color: white;
 }
 
 .button-box {
