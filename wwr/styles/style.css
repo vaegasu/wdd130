@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bradley+Hand&family=Rock+Salt&display=swap');
 
-@media screen and (max-width: 900px) {
-    #hero, .home-grid {
-        display: block;
-        height: auto;
-    }
-}
-
 #background {
     text-align: center;
     height: 725px;
@@ -14,7 +7,6 @@
     margin: 200px 0;
     grid-column: 1/11;
     grid-row: 4/9;
-    display: none;
 }
 
 .logo {
@@ -244,8 +236,9 @@ footer .social img {
 
 .mountains {
     display: block;
-    margin: 0 auto;
-    width: 100%;
+    margin-bottom: -200px;
+    width: 500px;
+    height: 400px;
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
