@@ -175,6 +175,7 @@ nav a:hover {
 
 main {
     display: grid;
+    grid-template-columns: repeat(10, 1fr);
 }
 
 main section img {
