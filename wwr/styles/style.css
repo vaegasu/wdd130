@@ -17,6 +17,11 @@ div {
     width: 80px;
 }
 
+#hero {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
 #hero-msg h1 , #hero-msg h4 {
     text-align: center;
 }
