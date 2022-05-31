@@ -58,17 +58,6 @@ div {
     text-align: center;
 }
 
-nav {
-    text-align: center;
-    text-decoration: none;
-    display: flex;
-    justify-content: space-around;
-}
-
-nav, footer {
-    flex-direction: column;
-}
-
 a {
     text-align: center;
     text-decoration: none;
@@ -113,6 +102,14 @@ header {
     padding-top: 5px;
     justify-self: center;
     align-self: center;
+}
+
+nav {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
 }
 
 nav a {
@@ -231,6 +228,7 @@ footer {
     align-items: center;
     display: flex;
     justify-content: space-around;
+    flex-direction: column;
 }
 
 footer a {
