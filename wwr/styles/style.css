@@ -6,6 +6,8 @@
     height: 725px;
     background-color: #d9c2a3;
     margin: 200px 0;
+    grid-column: 1/11;
+    grid-row: 4/9;
 }
 
 div {
@@ -123,14 +125,20 @@ nav a:hover {
 
 .rivers-card {
     margin: 200px 0;
+    grid-column: 2/4;
+    grid-row: 2/3
 }
 
 .camping-card {
     margin: 200px 0;
+    grid-column: 5/7;
+    grid-row: 2/3;
 }
 
 .rapids-card {
     margin: 200px 0;
+    grid-column: 8/10;
+    grid-row: 2/3;
 }
 
 .book:hover , .join:hover {
@@ -150,6 +158,11 @@ main section img {
     background-color: rgba(20, 30, 13, .7);
     line-height: 1.5em;
     padding: 35px;
+}
+
+.msg {
+    grid-column: 6/10;
+    grid-row: 6/7;
 }
 
 .msg p {
@@ -203,6 +216,8 @@ footer .social img {
     display: block;
     margin: 50px 0;
     width: 100%;
+    grid-column: 2/7;
+    grid-row: 5/8;
 }
 
 .home-title {
