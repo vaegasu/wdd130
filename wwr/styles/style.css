@@ -16,7 +16,6 @@
 #hero {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
-    grid-template-rows: 1fr 1fr;
     margin-top: -150px;
 }
 
@@ -24,11 +23,6 @@
     grid-column: 1/4;
     grid-row: 1/3;
     z-index: -1;
-}
-
-#hero-img {
-    max-width: 1600px;
-    max-height: 1600px;
 }
 
 #hero-msg h1 {
