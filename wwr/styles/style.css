@@ -103,9 +103,11 @@ header {
 nav {
     text-align: center;
     text-decoration: none;
+    padding: 35px;
     display: flex;
     justify-content: space-evenly;
     flex-direction: row;
+    row-gap: 30px;
 }
 
 nav a {
@@ -118,7 +120,7 @@ nav a:hover {
     color: #fcfbfb;
     text-align: center;
     padding: 35px;
-    background-color: black;
+    background-color: grey;
 }
 
 .book, .join {
