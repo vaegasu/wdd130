@@ -28,6 +28,8 @@ div {
 nav {
     text-align: center;
     text-decoration: none;
+    display: flex;
+    justify-content: space-around;
 }
 
 a {
@@ -66,7 +68,8 @@ main {
 
 header {
     background-color: rgba(20, 30, 13, .7);
-
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 
 #logo_link {
