@@ -173,9 +173,12 @@ nav a:hover {
     transform: scale(1.1);
 }
 
+main {
+    display: grid;
+}
+
 main section img {
     box-sizing: border-box;
-    display: grid;
 }    
 
 #msg {
