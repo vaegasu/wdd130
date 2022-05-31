@@ -37,6 +37,12 @@ div {
     color: white;
 }
 
+#hero-msg {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: 100px;
+}
+
 .button-box {
     text-align: center;
 }
