@@ -131,6 +131,7 @@ nav a:hover {
 
 .card-img {
     border: 10px solid #d9c2a3;
+    width: 100%;
 }
 
 main section img {
@@ -193,6 +194,7 @@ footer .social img {
 .mountains {
     display: block;
     margin: 50px 0;
+    width: 100%;
 }
 
 .home-title {
