@@ -165,7 +165,7 @@ main {
 }  
 
 #msg {
-    background-color: rgba(20, 30, 13, .7);
+    background-color: #a30000;
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
@@ -177,7 +177,7 @@ main {
 }
 
 .msg {
-    background-color: #6f7364;
+    background-color: #a30000;
     line-height: 1.5em;
     padding: 35px;
     grid-column: 6/10;
@@ -224,16 +224,16 @@ footer {
 }
 
 footer a {
-    color: #d9c2a3;
+    color: white;
     text-decoration: none;
 }
 
 footer h3 {
-    color: #d9c2a3;
+    color: white;
 }
 
 footer a:hover {
-    color: #d9c2a3;
+    color: white;
 }
 
 footer .social img {
