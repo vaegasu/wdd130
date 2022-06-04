@@ -30,7 +30,7 @@
 
 #hero-msg h1 {
     text-align: center;
-    color: #d9c2a3;
+    color: white;
 }
 
 #hero-msg h4 {
@@ -153,8 +153,8 @@ nav a:hover {
     transform: scale(1.1);
 }
 
-main {
-    display: grid;
+.main-grid {
+    display: inline-grid;
     grid-template-columns: repeat(10, 1fr);
     text-align: center;
 }
