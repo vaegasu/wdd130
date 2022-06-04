@@ -37,8 +37,8 @@
 
 #hero-msg h4 {
     text-align: center;
-    color: #d9c2a3;
-    margin-top: -20px;
+    color: white;
+    margin-top: -10px;
 }
 
 .home-title {
@@ -113,7 +113,7 @@ nav a:hover {
 }
 
 .book {
-margin-left: 630px;
+margin-left: 640px;
 }
 
 .book,
