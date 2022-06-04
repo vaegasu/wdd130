@@ -49,7 +49,7 @@
 }
 
 body {
-    background-color: #004777;
+    background-color: #efd28d;
     font-family: Arial, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -69,7 +69,7 @@ h4 {
 }
 
 header {
-    background-color:#efd28d;
+    background-color:#004777;
     ;
     display: grid;
     grid-template-columns: 150px auto;
@@ -211,8 +211,8 @@ nav a {
 }
 
 footer {
-    color: #d9c2a3; 
-    background-color: #6f7364;
+    color: white; 
+    background-color: #004777;
     padding: 25px 50px;
     text-decoration: underline;
     margin-top: 25px;
