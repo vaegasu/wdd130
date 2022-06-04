@@ -75,6 +75,7 @@ h4 {
 
 header {
     background-color: #6f7364;
+    color: white;
     display: grid;
     grid-template-columns: 150px auto;
 }
