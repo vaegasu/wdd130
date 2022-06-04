@@ -24,18 +24,21 @@
     grid-row: 1/3;
 }
 
-#hero-msg h1 {
-    text-align: center;
-    color: #d9c2a3;
+#hero-msg {
     grid-column: 2/3;
     grid-row: 1/2;
 }
 
+#hero-msg h1 {
+    text-align: center;
+    color: #d9c2a3;
+    margin-top: -900px;
+}
+
 #hero-msg h4 {
     text-align: center;
-    color: black;
-    grid-column: 2/3;
-    grid-row: 1/2;
+    color: #d9c2a3;
+    margin-top: -20px;
 }
 
 .home-title {
@@ -109,6 +112,10 @@ nav a:hover {
     background-color: grey;
 }
 
+.book {
+margin-left: 630px;
+}
+
 .book,
 .join {
     text-align: center;
@@ -116,9 +123,9 @@ nav a:hover {
     text-decoration: none;
     color: black;
     font-size: 15px;
-    padding: 10px 20px;
-    margin-top: 50px;
     border-radius: 3px;
+    margin-top: 50px;
+    padding: 10px 20px;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
 }
 
@@ -201,14 +208,14 @@ main section img {
 }
 
 .msg p {
-    color: black;
+    color: white;
     padding-bottom: 15px;
     font-family: 'Rock Salt', 'Brandley Hand', sans-serif;
     font-size: .8em;
 }
 
 .msg h2 {
-    color: black;
+    color: white;
 }
 
 .icon {
