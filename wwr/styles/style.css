@@ -16,6 +16,7 @@
 .hero {
     display: grid;
     grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: 1fr 1fr;
 }
 
 #hero-box {
@@ -25,7 +26,7 @@
 
 #hero-msg h1, #hero-msg h4{
     text-align: center;
-    color: white;
+    color: #d9c2a3;
     grid-column: 2/3;
     grid-row: 1/2;
 }
@@ -43,7 +44,7 @@
 }
 
 body {
-    background-color: #efd28d;
+    background-color: white;
     font-family: Arial, sans-serif;
     font-size: 22px;
     margin: 0;
@@ -63,7 +64,7 @@ h4 {
 }
 
 header {
-    background-color: #004777;
+    background-color: #6f7364;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -104,7 +105,7 @@ nav a:hover {
 .book,
 .join {
     text-align: center;
-    background-color: #00afb5;
+    background-color: #d9c2a3;
     text-decoration: none;
     color: black;
     font-size: 15px;
@@ -134,8 +135,8 @@ nav a:hover {
     grid-column: 8/10;
     grid-row: 2/3;
     margin: 200px 0;
-    width: 50px;
-    height: 50px;
+    width: 200px;
+    height: 200px;
 }
 
 .book:hover,
@@ -166,7 +167,7 @@ main section img {
 }
 
 #msg {
-    background-color: #a30000;
+    background-color: #6f7364;
     font-size: .8em;
     line-height: 1.5em;
     padding: 35px;
@@ -179,7 +180,7 @@ main section img {
 }
 
 .msg {
-    background-color: #a30000;
+    background-color: #6f7364;
     font-size: .8em;
     line-height: 1.5em;
     padding: 35px;
@@ -210,7 +211,7 @@ main section img {
 
 footer {
     color: white;
-    background-color: #004777;
+    background-color: #6f7364;
     padding: 25px 50px;
     text-decoration: underline;
     margin-top: 200px;
