@@ -73,8 +73,8 @@ h4 {
 }
 
 header {
-    color: #004777;
-    background-color: #efd28d;
+    color: #d9c2a3;
+    background-color: #6f7364;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -88,7 +88,6 @@ header {
 nav {
     color: #004777;
     text-align: center;
-    text-decoration: none;
     padding: 35px;
     display: flex;
     justify-content: space-evenly;
