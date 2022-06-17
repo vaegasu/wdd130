@@ -281,6 +281,7 @@ footer .social img {
     height: 350px;
     border: 10px solid #d9c2a3;
     align-items: center;
+    margin-right: -20px;
 }
 
 .supplies-card{
@@ -292,10 +293,17 @@ footer .social img {
     align-items: center;
 }
 
-.faqs-title .question-1 .question-2 .question-3 .question-4 .question-5 .question-6 {
-    grid-column: 2/2;
-    font-family: 'Rock Salt', 'Brandley Hand', sans-serif;
+#faqs-title {
     font-size: .8em;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    margin-left: 20px;
+}
+
+#question-1 {
+    font-size: .5em;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    margin-top: -550px;
+    margin-left: 20px;
 }
 
 
