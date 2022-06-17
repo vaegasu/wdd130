@@ -270,6 +270,7 @@ footer .social img {
 }
 
 .faqs {
+    display: grid;
     grid-template-columns: 1fr, 1fr;
 }
 
