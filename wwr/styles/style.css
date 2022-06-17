@@ -73,8 +73,8 @@ h4 {
 }
 
 header {
-    color: white;
-    background-color: #6f7364;
+    color: #004777;
+    background-color: #efd28d;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -86,7 +86,7 @@ header {
 }
 
 nav {
-    color: wheat;
+    color: #004777;
     text-align: center;
     text-decoration: none;
     padding: 35px;
@@ -101,11 +101,9 @@ nav a {
     text-align: center;
     display: block;
     padding: 35px;
-    text-decoration: none;
 }
 
 nav a:hover {
-    text-decoration: none;
     color: wheat;
     text-align: center;
     padding: 35px;
