@@ -271,8 +271,7 @@ footer .social img {
 
 .faqs {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 450px auto;
 }
 
 .family-card {
@@ -280,6 +279,8 @@ footer .social img {
     grid-row: 1;
     width: 450px;
     height: 350px;
+    border: 10px solid #d9c2a3;
+    align-items: center;
 }
 
 .supplies-card{
@@ -287,15 +288,16 @@ footer .social img {
     grid-row: 2;
     width: 450px;
     height: 350px;
+    border: 10px solid #d9c2a3;
+    align-items: center;
 }
 
 .faqs-title .question-1 .question-2 .question-3 .question-4 .question-5 .question-6 {
     grid-column: 2/2;
+    font-family: 'Rock Salt', 'Brandley Hand', sans-serif;
+    font-size: .8em;
 }
 
-.question-2 .question-4 .question-6 {
-    grid-column: 2/2;
-}
 
 
 
