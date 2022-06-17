@@ -274,6 +274,10 @@ footer .social img {
     grid-template-columns: 1fr, 1fr;
 }
 
+.faq-images {
+    grid-column: 1/2;
+}
+
 
 
 
