@@ -276,7 +276,6 @@ footer .social img {
 
 .family-card {
     grid-column: 1;
-    grid-row: 1;
     width: 450px;
     height: 350px;
     border: 10px solid #d9c2a3;
@@ -285,15 +284,28 @@ footer .social img {
 }
 
 .supplies-card{
-    grid-column: 2;
-    grid-row: 2;
+    grid-column: 1;
     width: 450px;
     height: 350px;
     border: 10px solid #d9c2a3;
     align-items: center;
-    
 }
 
+.scenery-card {
+    grid-column: 1;
+    width: 450px;
+    height: 350px;
+    border: 10px solid #d9c2a3;
+    align-items: center;
+}
+
+.happytimes-card {
+    grid-column: 1;
+    width: 450px;
+    height: 350px;
+    border: 10px solid #d9c2a3;
+    align-items: center;
+}
 #faqs-title {
     font-size: .8em;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
@@ -304,7 +316,7 @@ footer .social img {
 #question-1 {
     font-size: .5em;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
-    margin-top: -530px;
+    margin-top: -1260px;
     margin-left: 20px;
 }
 
@@ -312,7 +324,7 @@ footer .social img {
     grid-column: 2/2;
     font-size: .5em;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
-    margin-top: -330px;
+    margin-top: -1060px;
     margin-left: 20px;
 }
 
@@ -320,7 +332,7 @@ footer .social img {
     grid-column: 2/2;
     font-size: .5em;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
-    margin-top: -120px;
+    margin-top: -870px;
     margin-left: 20px;
 }
 
@@ -328,7 +340,23 @@ footer .social img {
     grid-column: 2/2;
     font-size: .5em;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
-    margin-top: 20px;
+    margin-top: -700px;
+    margin-left: 20px;
+}
+
+#question-5 {
+    grid-column: 2/2;
+    font-size: .5em;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    margin-top: -300px;
+    margin-left: 20px;
+}
+
+#question-6 {
+    grid-column: 2/2;
+    font-size: .5em;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    margin-top: -60px;
     margin-left: 20px;
 }
 
