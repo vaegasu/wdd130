@@ -298,6 +298,7 @@ footer .social img {
     font-size: .8em;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
     margin-left: 20px;
+    text-align: center;
 }
 
 #question-1 {
@@ -307,13 +308,31 @@ footer .social img {
     margin-left: 20px;
 }
 
-#questions-2 {
+#question-2 {
     grid-column: 2/2;
     font-size: .5em;
     font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
-    margin-top: -430px;
+    margin-top: -330px;
     margin-left: 20px;
 }
+
+#question-3 {
+    grid-column: 2/2;
+    font-size: .5em;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    margin-top: -120px;
+    margin-left: 20px;
+}
+
+#question-4 {
+    grid-column: 2/2;
+    font-size: .5em;
+    font-family: 'Rock Salt', 'Patrick Hand', sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
 
 
 
