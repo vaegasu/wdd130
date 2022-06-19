@@ -403,12 +403,11 @@ form {
     font: 1em sans-serif;
   
     /* Uniform text field size */
-    width: 400px;
+    width: 300px;
     box-sizing: border-box;
   
     /* Match form field borders */
     border: 1px solid #999;
-    margin-top: -550px;
   }
   
   input:focus,
