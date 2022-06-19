@@ -418,8 +418,9 @@ form {
   
   textarea {
     /* Align multiline text fields with their labels */
-    vertical-align: bottom;
-    margin: -260px;
+    vertical-align: top;
+    margin-top: 5px;
+ 
   
     /* Provide space to type some text */
     height: 5em;
