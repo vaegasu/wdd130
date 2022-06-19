@@ -407,7 +407,7 @@ form {
     box-sizing: border-box;
   
     /* Match form field borders */
-    border: 1px solid #999;
+    border: 1px solid black;
   }
   
   input:focus,
@@ -419,6 +419,7 @@ form {
   textarea {
     /* Align multiline text fields with their labels */
     vertical-align: top;
+    margin: -260px;
   
     /* Provide space to type some text */
     height: 5em;
@@ -433,6 +434,10 @@ form {
     /* This extra margin represent roughly the same space as the space
        between the labels and their text fields */
     margin-left: .5em;
+  }
+
+  textarea .msg {
+    margin-top: -550px;
   }
 
 
