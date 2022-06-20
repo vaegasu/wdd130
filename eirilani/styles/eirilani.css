@@ -1,0 +1,6 @@
+header {
+    color: #d9c2a3;
+    background-color: #c3a4ae;
+    display: grid;
+    grid-template-columns: 150px auto;
+}
