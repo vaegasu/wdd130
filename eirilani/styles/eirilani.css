@@ -10,7 +10,7 @@ header {
     grid-column: 2/2;
     width: 120px;
     margin-left: 1230px;
-    margin-top: 40px;
+    margin-top: 80px;
 }
 
 nav {
@@ -24,6 +24,7 @@ nav {
 }
 
 nav a {
+    font-family: 'Playfair Display';
     color: white;
     text-align: center;
     display: block;
@@ -43,6 +44,7 @@ footer {
 }
 
 footer a {
+    font-family: 'Playfair Display';
     color: white;
     text-align: center;
 }
