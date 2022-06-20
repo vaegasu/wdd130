@@ -19,5 +19,9 @@ header {
 
 nav {
     grid-column: 2/2;
-    
+    text-decoration-color: azure;
+}
+
+footer {
+    background-color: #c3a4ae;
 }
