@@ -40,3 +40,8 @@ footer {
     flex-direction: row;
     column-gap: 80px;
 }
+
+footer a {
+    color: white;
+    text-align: center;
+}
