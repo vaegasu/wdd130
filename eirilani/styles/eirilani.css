@@ -6,9 +6,6 @@ header {
     grid-template-columns: auto 150px;
 }
 
-h1 {
-    font-family: 'Berkshire Swash';
-}
 .logo {
     grid-column: 2/2;
     width: 120px;
