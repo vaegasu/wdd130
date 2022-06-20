@@ -4,10 +4,11 @@ body {
 header {
     background-color: #c3a4ae;
     display: grid;
-    grid-template-columns: 150px auto;
+    grid-template-columns: auto 150px;
 }
 
 .logo {
+    grid-column: 2/2;
     width: 120px;
 }
 
@@ -18,8 +19,14 @@ header {
 }
 
 nav {
-    grid-column: 2/2;
-    text-decoration-color: azure;
+    grid-column: 1/2;
+    text-align: center;
+    padding: 35px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: flex-end;
+    column-gap: 10px;
 }
 
 footer {
