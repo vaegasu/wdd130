@@ -19,6 +19,12 @@ header {
     margin-top: 40px;
 }
 
+h1 {
+    align-self: center;
+    margin-left: -760px;
+    margin-bottom: -50px;
+}
+
 nav {
     grid-column: 1/2;
     text-align: center;
