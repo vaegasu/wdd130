@@ -22,26 +22,46 @@ header {
 nav {
     grid-column: 1/2;
     text-align: center;
-    padding: 35px;
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
-    align-items: flex-end;
+    line-height: 3em;
+    font-size: 1.2em;
 }
+
+nav {
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+    margin-left: 140px;
+  }
 
 nav a {
     font-family: 'Playfair Display';
     color: white;
     text-align: center;
     display: block;
-    padding: 35px;
 }
+
+nav a {
+    padding: 1em;
+    min-width: 120px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
 
 footer {
     background-color: #c3a4ae;
     padding: 25px 50px;
-    text-decoration: none;
     margin-top: 200px;
+    text-decoration: none;
     align-items: center;
     display: flex;
     justify-content: space-around;
