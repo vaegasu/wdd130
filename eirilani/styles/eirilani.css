@@ -24,4 +24,12 @@ nav {
 
 footer {
     background-color: #c3a4ae;
+    padding: 25px 50px;
+    text-decoration: none;
+    margin-top: 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    column-gap: 80px;
 }
