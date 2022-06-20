@@ -9,7 +9,7 @@ body {
 header {
     background-color: #c3a4ae;
     display: grid;
-    grid-template-columns: 150px auto;
+    grid-template-columns: 1fr 1fr;
 }
 
 .logo {
@@ -23,25 +23,5 @@ header {
 }
 
 nav {
-    color: white;
-    text-align: center;
-    padding: 35px;
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
-    align-items: flex-end;
-    column-gap: 10px;
-}
-
-nav a {
-    text-align: center;
-    display: block;
-    padding: 35px;
-}
-
-nav a:hover {
-    color: wheat;
-    text-align: center;
-    padding: 35px;
-    background-color: grey;
+    grid-column: 2/2;
 }
