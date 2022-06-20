@@ -9,8 +9,14 @@ header {
 .logo {
     grid-column: 2/2;
     width: 120px;
+}
+
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
     margin-left: 1230px;
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 nav {
