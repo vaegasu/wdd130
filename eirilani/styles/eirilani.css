@@ -1,6 +1,16 @@
 header {
-    color: #d9c2a3;
+    color: white;
     background-color: #c3a4ae;
     display: grid;
     grid-template-columns: 150px auto;
+}
+
+.logo {
+    width: 80px;
+}
+
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
 }
