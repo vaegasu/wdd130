@@ -1,19 +1,14 @@
 body {
-    background-color: white;
-    font-family: Arial, sans-serif;
-    font-size: 22px;
-    margin: 0;
-    padding: 0;
 }
 
 header {
     background-color: #c3a4ae;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 150px auto;
 }
 
 .logo {
-    width: 40px;
+    width: 120px;
 }
 
 #logo_link {
@@ -24,4 +19,5 @@ header {
 
 nav {
     grid-column: 2/2;
+    
 }
