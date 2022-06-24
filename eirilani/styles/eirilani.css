@@ -72,15 +72,15 @@ font-family: 'Berkshire Swash';
 
 .b1-content {
   font-family: 'Playfair Display';
-  font-size: 1.6em;
-  text-align: end;
+  font-size: 1.3em;
+  text-align: center;
   grid-column: 1;
   grid-row: 1;
-  padding: 80px;
 }
 
 .celebration {
-  margin-right: 870px;
+  grid-column: 1;
+  grid-row: 1;
   width: 450px;
   height: 350px;
 }
