@@ -66,7 +66,7 @@ nav a:hover {
     grid-row: 1;
 } 
 
-#subtitles {
+h2 {
 font-family: 'Berkshire Swash';
 }
 
@@ -102,7 +102,7 @@ font-family: 'Berkshire Swash';
     grid-row: 3;
 }
 
-main {
+main-grid {
     display: grid;
 }
 
