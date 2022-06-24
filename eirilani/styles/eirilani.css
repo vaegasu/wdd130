@@ -99,12 +99,11 @@ main {
 }
 
 #blogger {
-  font-family: 'Playfair Display';
+  font-family: 'Berkshire Swash';
   font-size: 2em;
   text-align: center;
-  margin-bottom: -100px;
   color: white;
-  margin-bottom: -20px;
+  margin-top: 60px;
   grid-column: 1;
   grid-row: 1;
 }
