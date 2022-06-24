@@ -72,20 +72,18 @@ font-family: 'Berkshire Swash';
 
 .b1-content {
   font-family: 'Playfair Display';
-  font-size: 1.3em;
+  font-size: 1.1em;
   text-align: center;
+  margin-top: -40px;
   grid-column: 2;
   grid-row: 1;
-  margin-top: -550px;
 }
 
 .celebration {
-  grid-column: 1;
-  grid-row: 1;
   width: 450px;
   height: 350px;
-  margin-left: -1000px;
-  margin-top: 180px;
+  grid-column: 1;
+  grid-row: 1;
 }
 
 #background_2 {
@@ -113,8 +111,8 @@ font-family: 'Berkshire Swash';
 
 .main-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
 }
+
 
 #background_4 {
   height: 925px;
