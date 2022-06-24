@@ -94,6 +94,10 @@ main {
   background-color: #ddc1d8;
 }
 
+#blog {
+  font-size: 5em;
+}
+
 footer {
     background-color: #c3a4ae;
     padding: 25px 50px;
