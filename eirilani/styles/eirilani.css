@@ -113,24 +113,30 @@ main {
   height: 300px;
   width: 900px;
   background-color: #6c6464;
-  grid-column: 1 / span 3;
+  grid-column: 1;
   grid-row: 2;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #blogpost_2 {
   height: 300px;
   width: 900px;
   background-color: #6c6464;
-  grid-column: 1 / span 3;
+  grid-column: 1;
   grid-row: 3;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #blogpost_3 {
   height: 300px;
   width: 900px;
   background-color: #6c6464;
-  grid-column: 1 / span 3;
+  grid-column: 1;
   grid-row: 4;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 main-blog {
