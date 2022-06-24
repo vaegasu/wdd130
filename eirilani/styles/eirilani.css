@@ -66,6 +66,10 @@ nav a:hover {
     grid-row: 1;
 } 
 
+.b1-content {
+  text-align: end;
+}
+
 #background_2 {
     height: 925px;
     background-color: #c3a4ae;
