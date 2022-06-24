@@ -66,6 +66,13 @@ nav a:hover {
     margin-top: 300px;
 } 
 
+#background_2 {
+    text-align: center;
+    height: 725px;
+    background-color: #ddc1d8;
+    margin-top: 300px;
+}
+
 footer {
     background-color: #c3a4ae;
     padding: 25px 50px;
