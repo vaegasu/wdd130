@@ -79,6 +79,12 @@ font-family: 'Berkshire Swash';
   padding: 80px;
 }
 
+.celebration {
+  margin-right: 870px;
+  width: 450px;
+  height: 350px;
+}
+
 #background_2 {
     height: 925px;
     background-color: #c3a4ae;
