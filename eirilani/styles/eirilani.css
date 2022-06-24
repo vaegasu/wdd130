@@ -57,7 +57,14 @@ nav a {
 nav a:hover {
     color:  #6c6464;
     background-color: #ddc1d8;
-  }
+}
+
+#background_1 {
+    text-align: center;
+    height: 725px;
+    background-color: #ddc1d8;
+    margin-top: 300px;
+} 
 
 footer {
     background-color: #c3a4ae;
