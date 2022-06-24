@@ -86,6 +86,15 @@ font-family: 'Berkshire Swash';
     grid-row: 2;
 }
 
+.b2-content{
+  font-family: 'Playfair Display';
+  font-size: 1.4em;
+  text-align: left; 
+  grid-column: 1;
+  grid-row: 2;
+  padding: 80px;
+}
+
 #background_3 {
     height: 425px;
     background-color: #6c6464;
