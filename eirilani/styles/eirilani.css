@@ -111,7 +111,7 @@ main {
 
 #blogpost_1 {
   height: 300px;
-  width: 900px;
+  width: 1000px;
   background-color: #6c6464;
   grid-column: 1;
   grid-row: 2;
@@ -121,7 +121,7 @@ main {
 
 #blogpost_2 {
   height: 300px;
-  width: 900px;
+  width: 1000px;
   background-color: #6c6464;
   grid-column: 1;
   grid-row: 3;
@@ -131,7 +131,7 @@ main {
 
 #blogpost_3 {
   height: 300px;
-  width: 900px;
+  width: 1000px;
   background-color: #6c6464;
   grid-column: 1;
   grid-row: 4;
