@@ -67,7 +67,12 @@ nav a:hover {
 } 
 
 .b1-content {
+  font-family: 'Playfair Display';
+  font-size: 1.4em;
   text-align: end;
+  grid-column: 1;
+  grid-row: 1;
+  padding: 100px;
 }
 
 #background_2 {
