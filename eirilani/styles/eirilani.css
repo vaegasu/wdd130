@@ -64,6 +64,8 @@ nav a:hover {
     height: 725px;
     background-color: #ddc1d8;
     margin-top: 300px;
+    grid-column: 1 / span 3;
+    grid-row: 1;
 } 
 
 #background_2 {
@@ -71,9 +73,22 @@ nav a:hover {
     height: 725px;
     background-color: #c3a4ae;
     margin-top: 300px;
+    grid-column: 1 / span 3;
+    grid-row: 2;
 }
 
+#background_3 {
+    text-align: center;
+    height: 725px;
+    background-color: #6c6464;
+    margin-top: 300px;
+    grid-column: 1 / span 3;
+    grid-row: 3;
+}
 
+main {
+    display: grid;
+}
 
 footer {
     background-color: #c3a4ae;
