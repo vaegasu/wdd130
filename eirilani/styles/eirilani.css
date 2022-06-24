@@ -89,9 +89,13 @@ main {
   background-color: #ddc1d8;
 }
 
+
+
 #background_5 {
   height: 425px;
   background-color: #ddc1d8;
+  grid-column: 1 / span 3;
+  grid-row: 1;
 }
 
 #blogger {
@@ -99,22 +103,31 @@ main {
   font-size: 2em;
   text-align: center;
   color: white;
-  margin-top: -280px;
 }
 
 #blogpost_1 {
   height: 425px;
   background-color: #6c6464;
+  grid-column: 1 / span 3;
+  grid-row: 2;
 }
 
 #blogpost_2 {
   height: 425px;
   background-color: #6c6464;
+  grid-column: 1 / span 3;
+  grid-row: 3;
 }
 
 #blogpost_3 {
   height: 425px;
   background-color: #6c6464;
+  grid-column: 1 / span 3;
+  grid-row: 4;
+}
+
+main-blog {
+display: grid;
 }
 
 footer {
