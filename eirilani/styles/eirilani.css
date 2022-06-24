@@ -66,6 +66,10 @@ nav a:hover {
     grid-row: 1;
 } 
 
+#subtitles {
+font-family: 'Berkshire Swash';
+}
+
 .b1-content {
   font-family: 'Playfair Display';
   font-size: 1.4em;
