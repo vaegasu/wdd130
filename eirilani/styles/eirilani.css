@@ -96,7 +96,10 @@ main {
 
 #blogger {
   font-family: 'Playfair Display';
-  font-size: 5em;
+  font-size: 2em;
+  text-align: center;
+  color: white;
+  margin-top: -280px;
 }
 
 footer {
