@@ -120,8 +120,6 @@ main {
 #blogpost_2 {
   height: 300px;
   width: 900px;
-  padding: 35px;
-  gap: 35px;
   background-color: #6c6464;
   grid-column: 1 / span 3;
   grid-row: 3;
@@ -130,8 +128,6 @@ main {
 #blogpost_3 {
   height: 300px;
   width: 900px;
-  padding: 35px;
-  gap: 35px;
   background-color: #6c6464;
   grid-column: 1 / span 3;
   grid-row: 4;
