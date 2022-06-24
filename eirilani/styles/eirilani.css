@@ -92,7 +92,7 @@ main {
 
 
 #background_5 {
-  height: 425px;
+  height: 325px;
   background-color: #ddc1d8;
   grid-column: 1 / span 3;
   grid-row: 1;
@@ -102,7 +102,11 @@ main {
   font-family: 'Playfair Display';
   font-size: 2em;
   text-align: center;
+  margin-bottom: -50px;
   color: white;
+  margin-bottom: -20px;
+  grid-column: 1 / span 3;
+  grid-row: 1;
 }
 
 #blogpost_1 {
