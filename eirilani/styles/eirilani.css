@@ -169,6 +169,8 @@ font-family: 'Berkshire Swash';
 }
 
 
+
+
 #background_4 {
   height: 925px;
   background-color: #ddc1d8;
@@ -188,7 +190,7 @@ font-family: 'Berkshire Swash';
   width: 300px;
   height: 250px;
   grid-column: 1;
-  grid-row: 2;
+  grid-row: 1;
 }
 
 .grad-design {
@@ -217,7 +219,10 @@ font-family: 'Berkshire Swash';
 
 .main-design {
   display: grid;
+  grid-template-rows: 1fr 1fr;
 }
+
+
 
 
 
