@@ -219,12 +219,15 @@ font-family: 'Berkshire Swash';
   width: 350px;
   height: 450px;
   margin-top: 150px;
+  margin-left: 950px;
   grid-column: 1;
   grid-row: 2;
 }
 
 .birthday-design {
   font-family: 'Playfair Display';
+  margin-top: 650px;
+  margin-left: 1050px;
   grid-column: 1;
   grid-row: 2;
 }
