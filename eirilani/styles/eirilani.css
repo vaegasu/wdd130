@@ -187,8 +187,10 @@ font-family: 'Berkshire Swash';
 
 .grad-hat {
   border: 10px solid #6c6464;
-  width: 300px;
+  width: 330px;
   height: 450px;
+  margin-top: 150px;
+  margin-left: 80px;
   grid-column: 1;
   grid-row: 2;
 }
@@ -212,6 +214,7 @@ font-family: 'Berkshire Swash';
 .babyshower-design {
   font-family: 'Playfair Display';
   margin-top: 650px;
+  margin-left: 600px;
   grid-column: 1;
   grid-row: 2;
 }
