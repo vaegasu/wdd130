@@ -108,8 +108,10 @@ font-family: 'Berkshire Swash';
 }
 
 .designer {
-  width: 400px;
+  width: 650px;
   height: 500px;
+  padding: 20px;
+  margin-top: 200px;
   grid-column: 2;
   grid-row: 2;
 }
