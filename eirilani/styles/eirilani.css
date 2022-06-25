@@ -197,6 +197,8 @@ font-family: 'Berkshire Swash';
 
 .grad-design {
   font-family: 'Playfair Display';
+  margin-top: 650px;
+  margin-left: 180px;
   grid-column: 1;
   grid-row: 2;
 }
