@@ -204,12 +204,14 @@ font-family: 'Berkshire Swash';
   width: 330px;
   height: 450px;
   margin-top: 150px;
+  margin-left: 520px;
   grid-column: 1;
   grid-row: 2;
 }
 
 .babyshower-design {
   font-family: 'Playfair Display';
+  margin-top: 650px;
   grid-column: 1;
   grid-row: 2;
 }
