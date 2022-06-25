@@ -172,10 +172,20 @@ font-family: 'Berkshire Swash';
 #background_4 {
   height: 925px;
   background-color: #ddc1d8;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.head-img {
+  grid-column: 1;
+  grid-row: 1;
+  padding: 50px;
+  margin-left: 80px;
 }
 
 .main-design {
   display: grid;
+  grid-template-columns: 1fr;
 }
 
 
