@@ -123,6 +123,15 @@ font-family: 'Berkshire Swash';
   grid-row: 3;
 }
 
+.create-img {
+ border: 10px solid #d9c2a3;
+ width: 100%;
+ transition: transform .5s;
+ box-shadow: 5px 5px 10px #f2f9f7;
+ grid-column: 1 / span 3;
+ grid-row: 3;
+}
+
 .main-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
