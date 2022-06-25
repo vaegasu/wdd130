@@ -201,9 +201,9 @@ font-family: 'Berkshire Swash';
 
 .baby-shower {
   border: 10px solid #6c6464;
-  width: 300px;
+  width: 330px;
   height: 450px;
-  margin-bottom:;
+  margin-top: 150px;
   grid-column: 1;
   grid-row: 2;
 }
