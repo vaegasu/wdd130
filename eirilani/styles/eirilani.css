@@ -197,8 +197,9 @@ font-family: 'Berkshire Swash';
 
 .grad-design {
   font-family: 'Playfair Display';
-  margin-top: 650px;
-  margin-left: 180px;
+  font-size: 1.8em;
+  margin-top: 620px;
+  margin-left: 120px;
   grid-column: 1;
   grid-row: 2;
 }
@@ -215,8 +216,9 @@ font-family: 'Berkshire Swash';
 
 .babyshower-design {
   font-family: 'Playfair Display';
-  margin-top: 650px;
-  margin-left: 600px;
+  font-size: 1.8em;
+  margin-top: 620px;
+  margin-left: 560px;
   grid-column: 1;
   grid-row: 2;
 }
@@ -233,8 +235,9 @@ font-family: 'Berkshire Swash';
 
 .birthday-design {
   font-family: 'Playfair Display';
-  margin-top: 650px;
-  margin-left: 1050px;
+  font-size: 1.8em;
+  margin-top: 620px;
+  margin-left: 1020px;
   grid-column: 1;
   grid-row: 2;
 }
