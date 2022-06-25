@@ -72,8 +72,10 @@ font-family: 'Berkshire Swash';
 
 .b1-content {
   font-family: 'Playfair Display';
-  font-size: 1.1em;
-  text-align: end;
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: 60px;
+  margin-right: 50px;
   padding: 20px;
   grid-column: 2;
   grid-row: 1;
@@ -83,7 +85,7 @@ font-family: 'Berkshire Swash';
   width: 450px;
   height: 350px;
   margin-top: 80px;
-  margin-left: 50px;
+  margin-left: 120px;
   grid-column: 1;
   grid-row: 1;
 }
@@ -97,11 +99,12 @@ font-family: 'Berkshire Swash';
 
 .b2-content{
   font-family: 'Playfair Display';
-  font-size: 2em;
-  text-align: left; 
+  font-size: 1.8em;
+  text-align: center; 
+  padding: 40px;
+  margin-top: 70px;
   grid-column: 1;
   grid-row: 2;
-  padding: 80px;
 }
 
 #background_3 {
