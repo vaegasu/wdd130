@@ -307,7 +307,7 @@ h3 {
   font-family: 'Playfair Display';
   color: #f2f9f7;
   font-size: 1em;
-  text-align: end;
+  text-align: center;
   margin-top: -300px;
   grid-column: 1;
   grid-row: 2;
@@ -319,9 +319,19 @@ h3 {
   background-color: #6c6464;
   grid-column: 1;
   grid-row: 3;
-  margin-top: -20px;
+  margin-top: 170px;
   margin-bottom: 20px;
   margin-left: 120px;
+}
+
+.bloggy2 {
+  font-family: 'Playfair Display';
+  color: #f2f9f7;
+  font-size: 1em;
+  text-align: center;
+  margin-top: -300px;
+  grid-column: 1;
+  grid-row: 3;
 }
 
 .baby-reveal {
@@ -351,6 +361,16 @@ h3 {
   margin-left: 150px;
   margin-top: -450px;
   margin-bottom: 70px;
+  grid-column: 1;
+  grid-row: 4;
+}
+
+.bloggy3 {
+  font-family: 'Playfair Display';
+  color: #f2f9f7;
+  font-size: 1em;
+  text-align: center;
+  margin-top: -300px;
   grid-column: 1;
   grid-row: 4;
 }
