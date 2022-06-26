@@ -308,6 +308,7 @@ h3 {
   color: #f2f9f7;
   font-size: 1em;
   text-align: end;
+  margin-top: -300px;
   grid-column: 1;
   grid-row: 2;
 }
