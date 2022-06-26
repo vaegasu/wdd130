@@ -289,6 +289,14 @@ font-family: 'Berkshire Swash';
   margin-left: 120px;
 }
 
+.party {
+  width: 400px;
+  height: 280px;
+  margin-top: -460px;
+  grid-column: 1;
+  grid-row: 2;
+}
+
 #blogpost_2 {
   height: 300px;
   width: 1200px;
