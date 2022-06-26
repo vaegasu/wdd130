@@ -269,7 +269,7 @@ font-family: 'Berkshire Swash';
 h3 {
   color: #f2f9f7;
   font-family: 'Berkshire Swash';
-  font-size: 1em;
+  font-size: 2em;
 }
 
 #blogger {
@@ -308,7 +308,8 @@ h3 {
   color: #f2f9f7;
   font-size: 1em;
   text-align: center;
-  margin-top: -300px;
+  margin-top: -330px;
+  margin-left: 150px;
   grid-column: 1;
   grid-row: 2;
 }
