@@ -279,7 +279,7 @@ font-family: 'Berkshire Swash';
 }
 
 #blogpost_1 {
-  height: 300px;
+  height: 350px;
   width: 1200px;
   background-color: #6c6464;
   grid-column: 1;
@@ -292,29 +292,41 @@ font-family: 'Berkshire Swash';
 .party {
   width: 400px;
   height: 280px;
-  margin-top: -460px;
+  margin-left: 150px;
+  margin-top: -450px;
+  margin-bottom: 80px;
   grid-column: 1;
   grid-row: 2;
 }
 
 #blogpost_2 {
-  height: 300px;
+  height: 350px;
   width: 1200px;
   background-color: #6c6464;
   grid-column: 1;
   grid-row: 3;
-  margin-top: 20px;
+  margin-top: -20px;
   margin-bottom: 20px;
   margin-left: 120px;
 }
 
+.baby-reveal {
+  width: 400px;
+  height: 280px;
+  margin-left: 150px;
+  margin-top: -450px;
+  margin-bottom: 70px;
+  grid-column: 1;
+  grid-row: 3;
+}
+
 #blogpost_3 {
-  height: 300px;
+  height: 350px;
   width: 1200px;
   background-color: #6c6464;
   grid-column: 1;
   grid-row: 4;
-  margin-top: 20px;
+  margin-top: -20px;
   margin-bottom: 20px;
   margin-left: 120px;
 }
