@@ -242,6 +242,16 @@ font-family: 'Berkshire Swash';
   grid-row: 2;
 }
 
+.createee {
+  text-align: center;
+  background-color: #6c6464;
+  text-decoration: none;
+  color: #ddc1d8;
+  font-size: .8em;
+  border-radius: 3px;
+  font-family: 'Playfair Display';
+}
+
 .main-design {
   display: grid;
   grid-template-rows: 1fr 1fr;
