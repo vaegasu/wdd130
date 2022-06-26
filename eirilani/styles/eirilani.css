@@ -262,7 +262,7 @@ font-family: 'Berkshire Swash';
 
 
 #background_5 {
-  height: 325px;
+  height: 225px;
   background-color: #ddc1d8;
   grid-column: 1 / span 3;
   grid-row: 1;
@@ -329,6 +329,16 @@ font-family: 'Berkshire Swash';
   margin-top: -20px;
   margin-bottom: 20px;
   margin-left: 120px;
+}
+
+.baby-photoshoot {
+  width: 400px;
+  height: 280px;
+  margin-left: 150px;
+  margin-top: -450px;
+  margin-bottom: 70px;
+  grid-column: 1;
+  grid-row: 4;
 }
 
 .main-blog {
