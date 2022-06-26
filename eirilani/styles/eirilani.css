@@ -303,6 +303,15 @@ h3 {
   grid-row: 2;
 }
 
+.bloggy1 {
+  font-family: 'Playfair Display';
+  color: #f2f9f7;
+  font-size: 1em;
+  text-align: end;
+  grid-column: 1;
+  grid-row: 2;
+}
+
 #blogpost_2 {
   height: 350px;
   width: 1200px;
