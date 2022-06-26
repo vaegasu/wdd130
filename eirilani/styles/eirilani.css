@@ -391,11 +391,13 @@ footer {
     justify-content: space-around;
     flex-direction: row;
     column-gap: 80px;
+    font-size: 15px;
 }
 
 footer a {
     font-family: 'Playfair Display';
     color: white;
+    font-size: 15px;
     text-align: center;
     text-decoration: none;
 }
