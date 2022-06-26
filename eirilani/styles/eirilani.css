@@ -266,6 +266,12 @@ font-family: 'Berkshire Swash';
   grid-row: 1;
 }
 
+h3 {
+  color: #f2f9f7;
+  font-family: 'Berkshire Swash';
+  font-size: 1em;
+}
+
 #blogger {
   font-family: 'Berkshire Swash';
   font-size: 2em;
