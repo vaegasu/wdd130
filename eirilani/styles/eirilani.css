@@ -82,6 +82,7 @@ font-family: 'Berkshire Swash';
 }
 
 .celebration {
+  border: 10px solid #f2f9f7;
   width: 450px;
   height: 350px;
   margin-top: 80px;
@@ -108,9 +109,9 @@ font-family: 'Berkshire Swash';
 }
 
 .designer {
+  border: 10px solid #f2f9f7;
   width: 650px;
   height: 500px;
-  padding: 20px;
   margin-top: 200px;
   grid-column: 2;
   grid-row: 2;
