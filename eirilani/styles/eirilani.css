@@ -163,7 +163,7 @@ font-family: 'Berkshire Swash';
   grid-row: 3;
 }
 
-.main-grid {
+.home-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
