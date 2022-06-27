@@ -387,20 +387,20 @@ display: grid;
 
 footer {
     background-color: #c3a4ae;
-    padding: 25px 50px;
+    padding: 25px;
     text-decoration: none;
     align-items: center;
     display: flex;
     justify-content: space-around;
     flex-direction: row;
     column-gap: 80px;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 footer a {
     font-family: 'Playfair Display';
     color: white;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     text-decoration: none;
 }
