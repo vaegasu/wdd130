@@ -39,7 +39,7 @@ nav {
     list-style-type: none;
     display: flex;
     text-align: center;
-    margin-left: 320px;
+    margin-left: 380px;
   }
 
 nav a {
@@ -370,7 +370,7 @@ h3 {
   height: 280px;
   margin-left: 150px;
   margin-top: -450px;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   grid-column: 1;
   grid-row: 4;
 }
