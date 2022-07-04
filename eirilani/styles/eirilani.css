@@ -176,6 +176,7 @@ font-family: 'Berkshire Swash';
 
 
 
+
 #background_4 {
   height: 925px;
   background-color: #ddc1d8;
@@ -184,10 +185,19 @@ font-family: 'Berkshire Swash';
 }
 
 .head-img {
+  border: 10px solid white;
   grid-column: 1;
   grid-row: 1;
-  padding: 50px;
-  margin-left: 80px;
+  margin-left: 210px;
+}
+
+.headd { 
+  grid-column: 1;
+  grid-row: 1;
+  font-family: 'Playfair Display';
+  font-size: 1.8em;
+  color: white;
+  text-align: center; 
 }
 
 .grad-hat {
@@ -423,6 +433,7 @@ form {
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
+    font-family: 'Playfair Display';
   }
   
   ul {
@@ -446,7 +457,7 @@ form {
   textarea {
     /* To make sure that all text fields have the same font settings
        By default, textareas have a monospace font */
-    font: 1em sans-serif;
+    font-family: 'Playfair Display';
   
     /* Uniform text field size */
     width: 300px;
@@ -460,12 +471,14 @@ form {
   textarea:focus {
     /* Additional highlight for focused elements */
     border-color: #000;
+    font-family: 'Playfair Display';
   }
   
   textarea {
     /* Align multiline text fields with their labels */
     vertical-align: top;
     margin-top: 5px;
+    font-family: 'Playfair Display';
  
   
     /* Provide space to type some text */
@@ -475,6 +488,7 @@ form {
   .button {
     /* Align buttons with the text fields */
     padding-left: 90px; /* same size as the label elements */
+    font-family: 'Playfair Display';
   }
   
   button {
