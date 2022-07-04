@@ -314,7 +314,7 @@ h3 {
   border: 10px solid white;
   width: 250px;
   height: 300px;
-  margin-left: 150px;
+  margin-left: 210px;
   margin-top: -420px;
   margin-bottom: 50px;
   grid-column: 1;
@@ -327,7 +327,7 @@ h3 {
   font-size: 1.2em;
   text-align: center;
   margin-top: -360px;
-  margin-left: 150px;
+  margin-left: 370px;
   grid-column: 1;
   grid-row: 2;
 }
