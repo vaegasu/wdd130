@@ -189,6 +189,7 @@ font-family: 'Berkshire Swash';
   grid-column: 1;
   grid-row: 1;
   margin-left: 210px;
+  margin-top: 50px;
 }
 
 .headd { 
@@ -196,8 +197,9 @@ font-family: 'Berkshire Swash';
   grid-row: 1;
   font-family: 'Playfair Display';
   font-size: 1.8em;
-  color: white;
+  color: #6c6464;
   text-align: center; 
+  margin-top: 730px;
 }
 
 .grad-hat {
