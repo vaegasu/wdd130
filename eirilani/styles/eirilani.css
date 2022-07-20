@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Playfair+Display&display=swap');
 
 #content {
+overflow-y: hidden;  
 max-width: 0 auto;
 margin: 0 auto;
 }
