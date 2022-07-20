@@ -29,7 +29,6 @@ h1 {
 }
 
 #content {
-  overflow-y: hidden; 
   max-width: 0 auto;
   margin: 0 auto; 
 }
