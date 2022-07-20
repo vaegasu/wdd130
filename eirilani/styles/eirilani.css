@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Playfair+Display&display=swap');
 
+#content {
+max-width: 0 auto;
+margin: 0;
+}
+
 header {
     background-color: #c3a4ae;
     display: grid;
