@@ -213,7 +213,7 @@ font-family: 'Berkshire Swash';
 
 .grad-hat {
   border: 10px solid #ddc1d8;
-  width: 330px;
+  width: 24%;
   height: 450px;
   margin-top: 150px;
   margin-left: 80px;
@@ -231,7 +231,7 @@ font-family: 'Berkshire Swash';
 
 .baby-shower {
   border: 10px solid #ddc1d8;
-  width: 330px;
+  width: 24%;
   height: 450px;
   margin-top: 150px;
   margin-left: 520px;
@@ -249,7 +249,7 @@ font-family: 'Berkshire Swash';
 
 .birthdays {
   border: 10px solid #ddc1d8;
-  width: 350px;
+  width: 24%;
   height: 450px;
   margin-top: 150px;
   margin-left: 950px;
@@ -321,7 +321,7 @@ h3 {
 
 .party {
   border: 10px solid white;
-  width: 250px;
+  width: 20%;
   height: 300px;
   margin-left: 210px;
   margin-top: -420px;
@@ -365,11 +365,11 @@ h3 {
 
 .baby-reveal {
   border: 10px solid white;
-  width: 400px;
+  width: 27%;
   height: 280px;
   margin-left: 150px;
   margin-top: -450px;
-  margin-bottom: 70px;
+  margin-bottom: 60px;
   grid-column: 1;
   grid-row: 3;
 }
@@ -387,7 +387,7 @@ h3 {
 
 .baby-photoshoot {
   border: 10px solid white;
-  width: 400px;
+  width: 27%;
   height: 280px;
   margin-left: 150px;
   margin-top: -450px;
