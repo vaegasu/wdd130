@@ -1,16 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Playfair+Display&display=swap');
 
-#content {
-overflow-y: hidden;  
-max-width: 0 auto;
-margin: 0 auto;
-}
-
 header {
     background-color: #c3a4ae;
     display: grid;
     grid-template-columns: auto 150px;
-}
+  }
 
 .logo {
     grid-column: 2/2;
@@ -32,6 +26,12 @@ h1 {
     font-size: 3em;
     color: white;
     font-family: 'Berkshire Swash';
+}
+
+#content {
+  overflow-y: hidden; 
+  max-width: 0 auto;
+  margin: 0 auto; 
 }
 
 nav {
